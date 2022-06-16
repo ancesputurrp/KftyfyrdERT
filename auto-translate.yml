@@ -8,9 +8,6 @@ on:
       - 'README.md'
   pull_request:
     types:
-      - closed
-    branches:
-      - 'main'
     paths:
       - "README.md"
   
